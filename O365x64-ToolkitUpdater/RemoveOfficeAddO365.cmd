@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -file Toolkit\RemoveOfficeAddO365.ps1
